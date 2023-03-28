@@ -1,0 +1,1 @@
+This program takes a message from the user as input, encyrpts it, and sends it over the network to the server program. The server program recieves the message over a socket, decrypts it, and prints it out on the screen.
